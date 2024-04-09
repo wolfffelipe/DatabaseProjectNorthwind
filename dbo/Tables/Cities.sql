@@ -4,7 +4,7 @@ CREATE TABLE [dbo].[Cities] (
     [Col1]     VARCHAR (250) NULL,
     [Col2]     VARCHAR (250) NULL,
     CONSTRAINT [xpl_Cities] PRIMARY KEY CLUSTERED ([CityID] ASC)
-);
+); 
 
 
 GO
