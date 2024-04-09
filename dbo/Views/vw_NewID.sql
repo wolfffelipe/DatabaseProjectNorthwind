@@ -1,0 +1,6 @@
+CREATE VIEW vw_NewID
+AS
+  SELECT NEWID() AS "NewID"
+
+GO
+
