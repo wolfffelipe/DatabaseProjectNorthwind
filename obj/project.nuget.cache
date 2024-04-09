@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlUi1N2xxId7C491oAYqHrS7Z4c1/KdSbjGlr9DGOu9A8wCvUYU0d+Sny7yr1piZVK8imQyEoPfIM9DDkHLR6w==",
+  "success": true,
+  "projectFilePath": "c:\\Git\\northwind\\DatabaseProjectNorthwind\\DatabaseProjectNorthwind.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

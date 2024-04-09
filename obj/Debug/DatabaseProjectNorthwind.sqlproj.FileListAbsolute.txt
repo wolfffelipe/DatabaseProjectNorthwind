@@ -1,0 +1,8 @@
+c:\Git\northwind\DatabaseProjectNorthwind\bin\Debug\DatabaseProjectNorthwind.dacpac
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\DatabaseProjectNorthwind.sqlproj.AssemblyReference.cache
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\Model.xml
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\refactor.xml
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\postdeploy.sql
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\predeploy.sql
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\DatabaseProjectNorthwind.dll
+c:\Git\northwind\DatabaseProjectNorthwind\obj\Debug\DatabaseProjectNorthwind.pdb
